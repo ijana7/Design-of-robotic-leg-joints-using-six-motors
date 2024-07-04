@@ -33,6 +33,7 @@ And also the application of servo entrance measurements
 
 ## servo measurements
 
+![IMG_1842](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/467ee52c-7302-4ea4-a52b-62b4fed15e1d)
 
 ## Bolts and their size
 
