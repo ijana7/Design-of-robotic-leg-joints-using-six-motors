@@ -28,6 +28,7 @@ And also the application of servo entrance measurements
  
  
 ## Required servo and take the measurements
+![IMG_5693](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/0632f9cc-09fd-4cd6-9b93-b516f36858bb)
 
 
 ## servo measurements
