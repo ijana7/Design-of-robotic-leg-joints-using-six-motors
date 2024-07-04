@@ -19,5 +19,5 @@ And also the consistency of the entrances with the shape of the legs.
 
 And also the application of servo entrance measurements
 
- ## first steb
+ ## First, the base or legs
  
