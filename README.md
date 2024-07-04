@@ -54,4 +54,5 @@ And also the application of servo entrance measurements
 ## here should i put the bearing 
 ![IMG_1859](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/0de4c5fd-d740-4b28-a618-523c49ea845f)
  ## the bearing 
- 
+ (10mm)
+![IMG_5699](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/84346c2d-c12c-40e2-b154-31bcff8f67ce)
