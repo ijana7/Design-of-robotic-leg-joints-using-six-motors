@@ -50,3 +50,5 @@ And also the application of servo entrance measurements
 
 ## the legs
 ![IMG_1857](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/52d1b724-ee5b-4cf4-b0d6-d7cb414e3fed)
+
+## here i put the bearing 
