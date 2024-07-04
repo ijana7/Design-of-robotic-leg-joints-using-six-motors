@@ -24,21 +24,19 @@ And also the application of servo entrance measurements
 
 
  ## here I designed a place for the servo according to its existing measurements
- !![IMG_5692](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/16c8d450-867a-4be7-8298-f11648c1eda0)
+ ![IMG_5692](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/49909374-ec2c-412e-bf74-009764d93fc3)
  
  
 ## Required servo and take the measurements
-![IMG_1849](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/79539cc5-6c7c-413d-b7fe-6a83009b2bec)
+
+
 ## servo measurements
-![IMG_1842](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/4bcf169e-1e1b-43c1-af8a-b44d20b61f76)
+
 
 ## Bolts and their size
-![IMG_1849](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/9ab9b0e8-ee8e-4e4a-b12f-058eac9c8f19)
+
 
 ## The legs
-![IMG_5698](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/713f0974-752b-4a47-94d8-33627a149aad)
+
 
 ## Where do I put the servo?
-![IMG_1854](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/dedaedd9-a95b-44b6-9df7-ccb9623109d4)
-![IMG_1853](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/baa50e4b-a2b5-4007-a7b1-950b83451e90)
-
