@@ -52,6 +52,7 @@ And also the application of servo entrance measurements
 ![IMG_1857](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/52d1b724-ee5b-4cf4-b0d6-d7cb414e3fed)
 
 ## here should i put the bearing 
+(This piece's function is to prevent friction, so the body moves free)
 ![IMG_1859](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/0de4c5fd-d740-4b28-a618-523c49ea845f)
  ## the bearing 
  (10mm)
