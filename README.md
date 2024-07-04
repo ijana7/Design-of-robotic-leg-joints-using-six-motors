@@ -20,4 +20,7 @@ And also the consistency of the entrances with the shape of the legs.
 And also the application of servo entrance measurements
 
  ## First, the base or legs
- 
+ ![IMG_5692](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/15f08812-2582-460a-a384-63f214c6530b)
+ ## here I designed a place for the servo according to its existing measurements
+![IMG_5656](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/88c4cc8a-9661-4a01-9d0b-5ec4a24323cd)
+
