@@ -9,7 +9,7 @@ By leveraging the capabilities of Shaper 3D CAD software, we aim to create a leg
 ## The application used
 
 I used the 3d sheper app
-## link 
+## app link 
 https://apps.apple.com/sa/app/shapr3d-cad-modeling/id1091675654
 
 ## The problems I had at the beginning
@@ -20,13 +20,13 @@ And also the consistency of the entrances with the shape of the legs.
 And also the application of servo entrance measurements
 
  ## First, the base or legs
- ![IMG_5656](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/88c4cc8a-9661-4a01-9d0b-5ec4a24323cd)
+!![IMG_5692](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/16c8d450-867a-4be7-8298-f11648c1eda0)
  ## here I designed a place for the servo according to its existing measurements
- ![IMG_5692](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/15f08812-2582-460a-a384-63f214c6530b)
+ ![IMG_5692](https://github.com/ijana7/Design-of-
+ robotic-leg-joints-using-six-motors/assets/173642526/15f08812-2582-460a-a384-63f214c6530b)
 
 ## Required servo and take the measurements
-![IMG_5693](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/37e8115d-2def-4f71-b615-c0edeedff65a)
-
+![IMG_1849](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/79539cc5-6c7c-413d-b7fe-6a83009b2bec)
 ## servo measurements
 ![IMG_1842](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/4bcf169e-1e1b-43c1-af8a-b44d20b61f76)
 
