@@ -39,3 +39,4 @@ And also the application of servo entrance measurements
 ## Where do I put the servo?
 ![IMG_1854](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/dedaedd9-a95b-44b6-9df7-ccb9623109d4)
 ![IMG_1853](https://github.com/ijana7/Design-of-robotic-leg-joints-using-six-motors/assets/173642526/baa50e4b-a2b5-4007-a7b1-950b83451e90)
+
