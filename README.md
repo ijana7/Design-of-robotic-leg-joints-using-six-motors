@@ -7,8 +7,7 @@ This project focuses on the 3D design of an advanced robotic leg powered by 6 in
 By leveraging the capabilities of Shaper 3D CAD software, we aim to create a leg with enhanced flexibility and degrees of freedom for improved mobility on unstructured terrain.
 
 ## The application used
-[
-](https://collaborate.shapr3d.com/v/skxiBkhi-bAtO81oHQJdK)
+https://collaborate.shapr3d.com/v/skxiBkhi-bAtO81oHQJdK
 
 I used the 3d sheper app
 ## app link 
